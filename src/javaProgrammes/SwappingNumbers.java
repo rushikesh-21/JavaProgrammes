@@ -65,7 +65,7 @@ public class SwappingNumbers {
 		System.out.println("After Swapping");
 		System.out.println("p="+p);
 		System.out.println("q="+q);
-		System.out.println();
+		
 		
 		
 		
